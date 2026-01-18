@@ -92,7 +92,7 @@ body {
     width: 100%;
     height: 200px; /* Misma altura para todas las imágenes */
     object-fit: cover; /* Recorta sin deformar */
-    border-radius: 8px;
+
 }
 
 .producto h3 {
